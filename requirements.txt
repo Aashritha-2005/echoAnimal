@@ -1,0 +1,44 @@
+# # Streamlit version for both apps
+# streamlit==1.35.0
+
+# # For echoanimal.py
+# librosa==0.10.1
+# matplotlib==3.8.4
+# seaborn==0.13.2
+# scipy==1.13.1
+
+# # For wiki_taxonomy.py
+# transformers==4.41.1
+# torch==2.3.0
+# Pillow==10.3.0
+# beautifulsoup4==4.12.3
+# requests==2.32.3
+
+# Core Streamlit framework
+streamlit==1.35.0
+
+# Audio processing libraries
+librosa==0.10.1
+soundfile==0.12.1
+scipy==1.13.1
+
+# Machine learning and AI
+transformers==4.41.1
+torch==2.3.0
+torchaudio==2.3.0
+
+# Image processing
+Pillow==10.3.0
+
+# Data visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.17.0
+
+# Web scraping and API calls
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# Utilities
+numpy==1.24.3
+pandas==2.0.3
